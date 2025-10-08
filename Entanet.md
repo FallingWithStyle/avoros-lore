@@ -1,0 +1,5 @@
+Entanet – The Quantum Web of Avoros
+
+In the far reaches of Avoros, information travels not by light alone, but through entanglement. The Entanet is a vast lattice of quantum-linked nodes, where particles separated by star systems remain bound, allowing instantaneous transmission of binary signals across the galaxy. These signals carry everything from mundane messages to immersive media, which are encoded at the source and reconstructed at the receiver with perfect fidelity.
+
+Entire civilizations, fleets, and satellites are woven into this quantum-communication web, making real-time coordination, data sharing, and media streaming across light-years possible. While the Entanet seems like pure magic to most, it is a carefully engineered lattice of entangled qubits, each maintaining the delicate balance between chaos and coherence, ensuring that every message arrives exactly as intended—no delay, no distortion.
